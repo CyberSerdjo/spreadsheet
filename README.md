@@ -1,2 +1,2 @@
-# cpp-spreadsheet
+# spreadsheet
 Электронная таблица
